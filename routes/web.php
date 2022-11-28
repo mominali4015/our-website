@@ -76,6 +76,11 @@ Route::get('about-us', function () {
 })->name('about');
 
 
+Route::get('testimonials', function () {
+    return view('pages.testimonials');
+})->name('testimonials');
+
+
 Route::get('contact-us', function () {
     return view('pages.contact');
 })->name('contact');
