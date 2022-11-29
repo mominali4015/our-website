@@ -29,7 +29,13 @@
         font-size: small;
         color: #666;
     }
-
+    .newsletter{
+        outline: none;
+    }
+    .newsletter::placeholder {
+        color: white;
+        opacity: 0.9;
+    }
     </style>
 
     <script>
