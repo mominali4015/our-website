@@ -1,0 +1,10 @@
+@media screen and (max-width: 425px) {
+    .for-mobile {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+}
+
+.text-justify {
+    text-align: justify;
+}
