@@ -37,6 +37,29 @@
         color: white;
         opacity: 0.9;
     }
+    .first-slide{
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .image1 {
+        position: relative;
+        display: block;
+        max-height: 600px;
+        width: 100%;
+        top: 0;
+        left: 0;
+    }
+    .image2 {
+        border: 2px solid red;
+        position: absolute;
+        display: block;
+        max-height: 600px;
+        width: 100%;
+        top: 0;
+        left: 0;
+    }
+
     </style>
 
     <script>

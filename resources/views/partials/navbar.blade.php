@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg py-0 sticky-top border-bottom">
+<nav class="navbar navbar-expand-lg py-0 bg-white sticky-top border-bottom">
     <div class="container">
         <a class="navbar-brand" href="{{ route('home') }}">
             <img src="{{ asset('Images/Logo/Techster.jpg') }}" alt="Techster" width="100" height="40">
